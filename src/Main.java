@@ -11,6 +11,7 @@ public class Main {
         printUniqueWords(words);
         System.out.println(" ");
         countWordOccurrences(words);
+
     }
 
     public static void printUniqueWords(List<String> words) {
